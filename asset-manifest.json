@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Bilkovi/static/css/main.7517620c.chunk.css",
-    "main.js": "/React-Bilkovi/static/js/main.5a220f3c.chunk.js",
-    "main.js.map": "/React-Bilkovi/static/js/main.5a220f3c.chunk.js.map",
+    "main.css": "/React-Bilkovi/static/css/main.612be468.chunk.css",
+    "main.js": "/React-Bilkovi/static/js/main.55a71835.chunk.js",
+    "main.js.map": "/React-Bilkovi/static/js/main.55a71835.chunk.js.map",
     "runtime-main.js": "/React-Bilkovi/static/js/runtime-main.03672e99.js",
     "runtime-main.js.map": "/React-Bilkovi/static/js/runtime-main.03672e99.js.map",
-    "static/js/2.2e29db1f.chunk.js": "/React-Bilkovi/static/js/2.2e29db1f.chunk.js",
-    "static/js/2.2e29db1f.chunk.js.map": "/React-Bilkovi/static/js/2.2e29db1f.chunk.js.map",
+    "static/js/2.edd34718.chunk.js": "/React-Bilkovi/static/js/2.edd34718.chunk.js",
+    "static/js/2.edd34718.chunk.js.map": "/React-Bilkovi/static/js/2.edd34718.chunk.js.map",
     "index.html": "/React-Bilkovi/index.html",
-    "static/css/main.7517620c.chunk.css.map": "/React-Bilkovi/static/css/main.7517620c.chunk.css.map",
-    "static/js/2.2e29db1f.chunk.js.LICENSE.txt": "/React-Bilkovi/static/js/2.2e29db1f.chunk.js.LICENSE.txt",
+    "static/css/main.612be468.chunk.css.map": "/React-Bilkovi/static/css/main.612be468.chunk.css.map",
+    "static/js/2.edd34718.chunk.js.LICENSE.txt": "/React-Bilkovi/static/js/2.edd34718.chunk.js.LICENSE.txt",
     "static/media/Rectangle 368.ef13388a.png": "/React-Bilkovi/static/media/Rectangle 368.ef13388a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.03672e99.js",
-    "static/js/2.2e29db1f.chunk.js",
-    "static/css/main.7517620c.chunk.css",
-    "static/js/main.5a220f3c.chunk.js"
+    "static/js/2.edd34718.chunk.js",
+    "static/css/main.612be468.chunk.css",
+    "static/js/main.55a71835.chunk.js"
   ]
 }
